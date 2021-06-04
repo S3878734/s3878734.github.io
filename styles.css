@@ -1,7 +1,7 @@
 body {
-    background-image: linear-gradient(blue, silver);
+    background-image: linear-gradient(silver, white);
   }
 
 p {
-    color: green;
+    color: black;
   }
